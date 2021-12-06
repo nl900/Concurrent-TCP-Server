@@ -11,4 +11,5 @@ In the tcpclient dir, open a new terminal and run
 ```shell
 go run tcp_client.go 127.0.0.1:<PORT>
 ```
+A >> prompt will appear to enter text. Type sometext and the server will respond.
 You can also make new TCP connections using netcat.
